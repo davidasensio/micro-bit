@@ -42,6 +42,7 @@ Here I am showing the projects divided into several categories:
 <details>
 <summary>Advanced projects</summary>
 
+- [Chess clock](https://makecode.microbit.org/_3CbdCbF6sgH9)
 </details>
 
 
