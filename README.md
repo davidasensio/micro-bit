@@ -6,6 +6,18 @@ Working with this microcontroller seems to me a fascinating way to learn some pr
 
 In this hackweek I would like to try something new and learn about **Micro:bit** and implement a bunch of interesting [projects](https://microbit.org/projects/) that are available online for anyone to check it.
 
+
+
+
+
+| Front | Rear |
+|------ | -----|
+| <img src="./projects/images/microbit.png" alt="Micro:bit board" /> | <img src="./projects/images/microbit_back.png" alt="Micro:bit board rear" /> |
+
+
+
+
+
 ## Coding
 
 Microsoft’s [MakeCode editor](https://makecode.microbit.org/) is the perfect way to start programming and get creating with the BBC micro:bit. It can be programmed with **block** or **Python** text editors and also **Javascript**.
@@ -19,14 +31,14 @@ Microsoft is the company supporting this tools and they are doing a really good 
 ## Cool projects
 
 * Official projects - [link](https://microbit.org/projects/make-it-code-it/)
-* Other intersting projects - [link](https://www.itpro.co.uk/desktop-hardware/26289/13-top-bbc-micro-bit-projects)
+* Other interesting projects - [link](https://www.itpro.co.uk/desktop-hardware/26289/13-top-bbc-micro-bit-projects)
 * Measure the height of your building - [link](https://www.instructables.com/What-Is-the-Height-of-Your-School-Building/)
 * Tilting LEGO Maze - [link](https://www.instructables.com/Tilting-LEGO-Maze-With-Microbit/)
 
 
 ## Resources
 
-A lot of resources have been apperaing since micro:bit was born in 2015:
+A lot of resources have been appearing since micro:bit was born in 2015:
 
 
 - [Magazines](https://magazines.micromag.cc/)
@@ -34,10 +46,12 @@ A lot of resources have been apperaing since micro:bit was born in 2015:
 - And much more [here](https://github.com/carlosperate/awesome-microbit)
 
 
-## Author
+## Projects done during the Hackweek
+Go to hackweek [projects](./projects/README.md)
 
+## Author
 
-Started on #HackWeek20<br/>
+David Asensio <br/>
+#HackWeek 20<br/>
 New Work - 2022 <br/>
-David Asensio 
 
