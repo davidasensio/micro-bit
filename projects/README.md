@@ -60,6 +60,7 @@ Here I am showing the projects divided into several categories:
 <summary>Advanced projects</summary>
 
 - [Chess clock](https://makecode.microbit.org/_5Lz94WFpqdz3)
+- [Pomodoro clock](https://makecode.microbit.org/S18008-99776-22103-23934)
 - [Building height measurement](https://makecode.microbit.org/_07yE0XTHHhqp)
 </details>
 
